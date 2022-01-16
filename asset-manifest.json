@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-dating-app/static/css/main.2422c0ee.css",
+    "main.js": "/react-dating-app/static/js/main.39482b33.js",
+    "static/js/787.40430682.chunk.js": "/react-dating-app/static/js/787.40430682.chunk.js",
+    "static/media/female.png": "/react-dating-app/static/media/female.7cc8401f42aab1291f7f.png",
+    "static/media/male.png": "/react-dating-app/static/media/male.56eed4191dbbe4338719.png",
+    "static/media/bg1.jpeg": "/react-dating-app/static/media/bg1.eb44d513f5e340dde02f.jpeg",
+    "static/media/logo2.png": "/react-dating-app/static/media/logo2.1ecce5d1d2fa0b6abbb9.png",
+    "static/media/pro.png": "/react-dating-app/static/media/pro.f2e67323f049a41eb354.png",
+    "static/media/destination.png": "/react-dating-app/static/media/destination.a5e28e50cfec1773ce1b.png",
+    "index.html": "/react-dating-app/index.html",
+    "main.2422c0ee.css.map": "/react-dating-app/static/css/main.2422c0ee.css.map",
+    "main.39482b33.js.map": "/react-dating-app/static/js/main.39482b33.js.map",
+    "787.40430682.chunk.js.map": "/react-dating-app/static/js/787.40430682.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2422c0ee.css",
+    "static/js/main.39482b33.js"
+  ]
+}
