@@ -1,0 +1,55 @@
+.loader-body {
+  height: 80vh;
+  background-image: url("../../assets/bg1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* opacity: 0.9; */
+}
+
+.loader-text {
+  font-size: 4rem;
+  font-weight: 400;
+  color: white;
+}
+
+.loader-button {
+  background-color: #794955;
+  padding: 0.5rem 2rem;
+  border-radius: 30px;
+  font-size: 1rem;
+  color: #8797b7;
+  box-shadow: 1px 5px 5px #ab9f9f;
+  border: none;
+  outline: none;
+  margin-top: 1rem;
+}
+
+.loader-button:active {
+  transform: scale(0.7);
+  transition: all 2s;
+}
+
+/* p {
+  animation: animated-text 4s steps(17, end) 1s 1 normal both,
+    animated-cursor 600ms steps(17, end) infinite;
+}
+
+
+@keyframes animated-text {
+  from {
+    width: 0;
+  }
+  to {
+    width: 286px;
+  }
+}
+
+
+@keyframes animated-cursor {
+  from {
+    border-right-color: rgba(0, 255, 0, 0.75);
+  }
+  to {
+    border-right-color: transparent;
+  }
+} */

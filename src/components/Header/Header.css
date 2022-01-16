@@ -1,0 +1,32 @@
+/* .flex {
+  display: flex;
+} */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 400;
+    padding: 1.5rem 0;
+}
+.items {
+  margin: 1rem;
+}
+
+.logo-icon {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.3rem;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.header-left {
+  
+}
+
+.header-right {
+
+}

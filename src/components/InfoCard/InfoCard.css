@@ -1,0 +1,15 @@
+.info-container {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.img-info {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0 0.5rem 0 0;
+}
+
+.each-cont {
+  align-items: center;
+  margin-bottom: 1rem;
+}

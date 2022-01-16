@@ -1,0 +1,15 @@
+.leaflet-container {
+  background-color: black;
+  box-shadow: white;
+}
+.outer-container {
+  height: 80vh;
+}
+
+.map-cont {
+
+}
+
+.map {
+  border: 1px solid;
+}

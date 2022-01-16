@@ -1,0 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed'); */
+/* @import url('https://fonts.googleapis.com/css?family=Tajawal'); */
+
+/* body {
+  font-family: 'Barlow Semi Condensed';
+  font-family: 'Tajawal';
+} */
+
+body {
+  font-family: proxima-nova, sans-serif;
+font-style: normal;
+font-weight: 100;
+background-color: black;
+color: white;
+}
+
+.landing-page {
+  padding: 0 3rem;
+
+}
